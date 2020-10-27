@@ -1,0 +1,19 @@
+1 lb 2 oz (3 3/4 cups + 2 tbsp)	All-purpose flour
+1.8 oz (1/4 cup 2 tsp)	Semolina flour
+1 1/3 cup 2 tbsp1/3 tsp [left: -0.27000000000000085]	Luke-warm water
+0.2 oz (2 tsp)	Yeast
+0.7 oz (1 tbsp)	Kosher salt
+1/8 cups [left: 0]	Extra virgin olive oil
+
+
+
+
+Bugs:
+1. Do I want the "+ 2 tbsp" and "+ 2 tsp" for the first 2 ingreds?
+2. Should have "+" between "1/4 cup" and "2 tsp" 
+3. Do I want the 1/3 tsp in line 3?
+4. Need space between "tbsp" and "1/3" in line 3
+5. Should show liquid ingredients in fl oz first, then in cups/tsp
+   e.g. 4 oz (1/2 cup) Water
+6. Why is the leftover coming out negative in line 3?
+7. EVOO should not be expressed in 1/8 cups, that should be tbsp
