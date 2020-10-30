@@ -1,0 +1,22 @@
+
+---> Please confirm! <---
+Don't copy actual files, just make empty ones with the same name, and rename using both before and after names.
+Use same local time as America/Los_Angeles
+Copy all files from: TestData
+Copy files to:       TestData_LT
+Rename files using site name: RRam
+For example, 20200605_003000.WAV will be renamed to RRam-2020-06-04_17-30.WAV
+Only copy files from the top-level folder, not in subfolders.
+
+
+
+Started at 10/29/2020, 18:33:46
+
+Files will be saved here:TestData_LT
+Making folder: TestData_LT
+Copying: TestData/20200101_120000.wav to TestData_LT/20200101_120000.wav
+Copying: TestData/20200601_120000.wav to TestData_LT/20200601_120000.wav
+Copying: TestData/5E6A8D65.wav to TestData_LT/5E6A8D65.wav
+Renaming: 20200101_120000.wav > 20200101_120000 --to-- RRam-2020-01-01_04-00.WAV
+Renaming: 20200601_120000.wav > 20200601_120000 --to-- RRam-2020-06-01_05-00.WAV
+Renaming: 5E6A8D65.wav > 5E6A8D65 --to-- RRam-2020-03-12_12-28.WAV
