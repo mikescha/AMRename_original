@@ -186,7 +186,7 @@ def rename_files(to_dir, site_name, target_tz, test_mode, results_file):
 
     results_file.write(actions)
     return result
-
+#
 #### Make a copy of the specified folder and rename all files in it
 def copy_and_rename_folder(from_dir, new_folder_modifier, site_name, target_tz, test_mode, results_file):
     actions = ""
